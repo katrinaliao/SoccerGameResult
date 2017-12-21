@@ -4,11 +4,16 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace SoccerGameResult
 {
     [TestClass]
-    public class UnitTest1
+    public class UnitTest
     {
         [TestMethod]
-        public void TestMethod1()
+        public void Input_2_Return_A1()
         {
         }
+    }
+
+    public static class SoccerGame
+    {
+        //input should be even
     }
 }
